@@ -1,1 +1,1 @@
-# Organic-Thin-Film-OTFT-Transistor-Characterization
+# Organic Thin Film (OTFT) Transistor Characterization
